@@ -1,0 +1,4 @@
+﻿002345|5200|True|current|1234|3
+005476|3000|True|current|3434|3
+006798|7000|True|current|2157|1
+005532|2000|True|deposit|6580|3
